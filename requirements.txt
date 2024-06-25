@@ -1,1 +1,11 @@
 Lists all Python dependencies required for the project.
+
+pandas
+numpy
+scikit-learn
+tensorflow
+spotipy
+jupyter
+matplotlib
+seaborn
+pyyaml
