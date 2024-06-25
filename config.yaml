@@ -1,1 +1,12 @@
 Configuration file for storing paths, parameters, and other configurations.
+
+Model:
+data:
+  raw: "data/raw/"
+  processed: "data/processed/"
+  external: "data/external/"
+
+model:
+  save_path: "models/saved_models/"
+  parameters:
+    n_neighbors: 5
